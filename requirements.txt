@@ -1,0 +1,7 @@
+joblib==0.16.0
+numpy==1.22.3
+pandas==1.0.5
+requests==2.24.0
+scikit_learn==1.0.2
+streamlit==1.8.0
+~umpy==1.18.5
